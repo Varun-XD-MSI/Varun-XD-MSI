@@ -30,29 +30,5 @@ I aim to master game development concepts, improve my problem-solving skills thr
 
 ---
 
-## Games I Enjoy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rainbow-six-siege/rainbow-six-siege.png" width="250" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Counter--Strike%202-000000?style=for-the-badge&logo=steam" />
-  <img src="https://img.shields.io/badge/Assassin's%20Creed%20Odyssey-000000?style=for-the-badge&logo=ubisoft" />
-
-  <img src="https://img.shields.io/badge/Game-Valorant-000000?style=for-the-badge&logo=riotgames" />
-  <img src="https://img.shields.io/badge/Game-GTA%20V-000000?style=for-the-badge" />
-  
-  
-</p> -->
-
----
-
-## Currently Playing Music
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Chess player&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false" />
-</p>
-
----
 
