@@ -29,6 +29,14 @@ I aim to master game development concepts, improve my problem-solving skills thr
 - Exploring Game Development (Unity /Godot)  
 
 ---
-
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://github.com/Varun-XD-MSI" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/varun-batta-556717381" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
 
 
